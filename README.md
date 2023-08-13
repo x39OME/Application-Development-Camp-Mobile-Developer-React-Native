@@ -10,7 +10,7 @@ border
 - CSS/CSS3
 - JavaScript
 - JavaScript Advanced
-                            Responsive Web Design
-                            Bootstrap
-                            تعلم بيئة عمل متكاملة React
-                            تعلم بيئة عمل متكاملة React Native
+- Responsive Web Design
+- Bootstrap
+- تعلم بيئة عمل متكاملة React
+- تعلم بيئة عمل متكاملة React Native
