@@ -1,6 +1,8 @@
-# معسكر تطوير التطبيقات
+# معسكر تطوير التطبيقات Cross-platform Mobile Development
 
 ![Ustudy](https://raw.githubusercontent.com/x39OME/Ustudy-Camp/main/ustudy24.jpg)
+
+
 
  ## ماهي اهم مواضيع الدورة؟
 - HTML/HTML5
