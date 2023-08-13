@@ -11,7 +11,7 @@
 - اجمالي عدد الساعات قرابة ٥٠-٦٠ تدريبية
 
 <details>
-<summary><b>- Ustudy Course: </b><a href="https://ustudy24.com/course/1262"><b>Mobile Developer (React Native)</b></a></summary>
+<summary><b>Ustudy Course: </b><a href="https://ustudy24.com/course/1262"><b>Mobile Developer (React Native)</b></a></summary>
 
   * Week 1: [Introduction To Programming]()
   * Week 2: [Introduction To HTML & CSS]()
