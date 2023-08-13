@@ -4,8 +4,14 @@
 
 
 
+ ## ما هي خطة المعسكر؟
+ 
+- المعسكر يبدا 1/8
+- مدة المعسكر 6 أسابيع
+- اجمالي عدد الساعات قرابة ٥٠-٦٠ تدريبية
+
 <details>
-<summary><b> Ustudy Course: </b><a href="https://ustudy24.com/course/1262"><b>Mobile Developer (React Native)</b></a></summary>
+<summary><b>- Ustudy Course: </b><a href="https://ustudy24.com/course/1262"><b>Mobile Developer (React Native)</b></a></summary>
 
   * Week 1: [Introduction To Programming]()
   * Week 2: [Introduction To HTML & CSS]()
@@ -25,12 +31,6 @@
 - Bootstrap
 - React
 - React Native
-
- ## ما هي خطة المعسكر؟
- 
-- المعسكر يبدا 1/8
-- مدة المعسكر 6 أسابيع
-- اجمالي عدد الساعات قرابة ٥٠-٦٠ تدريبية
 
 
 
