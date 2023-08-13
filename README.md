@@ -16,8 +16,8 @@
   * Week 6: []()
 </details>
 
-- Camp Start 01/08/2023
-- Camp Duration 6 Weeks
+- Camp Start `01/08/2023`
+- Camp Duration `6` Weeks
 - Total Number Of Hours `50 - 60` Training Hours
 
 
