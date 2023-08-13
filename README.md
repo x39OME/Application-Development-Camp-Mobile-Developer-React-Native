@@ -1,4 +1,4 @@
-# معسكر تطوير التطبيقات Cross-platform Mobile Development
+# معسكر تطوير التطبيقات - Cross-platform Mobile Development
 
 ![Ustudy](https://raw.githubusercontent.com/x39OME/Ustudy-Camp/main/ustudy24.jpg)
 
