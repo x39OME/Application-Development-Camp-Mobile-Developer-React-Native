@@ -12,5 +12,12 @@ border
 - JavaScript Advanced
 - Responsive Web Design
 - Bootstrap
-- تعلم بيئة عمل متكاملة React
-- تعلم بيئة عمل متكاملة React Native
+- React
+- React Native
+
+ ## ما هي خطة المعسكر؟
+
+
+- المعسكر يبدا 1/8
+- مدة المعسكر 6 أسابيع
+- اجمالي عدد الساعات قرابة ٥٠-٦٠ تدريبية
