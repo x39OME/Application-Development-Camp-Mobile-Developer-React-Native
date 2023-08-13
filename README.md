@@ -4,6 +4,18 @@
 
 
 
+<details>
+<summary><b>Course 7: </b><a href="https://ustudy24.com/course/1262"><b>Mobile Developer (React Native)</b></a></summary>
+
+  * Week 1: [Introduction To Programming]()
+  * Week 2: [Introduction To HTML & CSS]()
+  * Week 3: []()
+  * Week 4: []()
+  * Week 5: []()
+  * Week 6: []()
+</details>
+
+
  ## ماهي اهم مواضيع الدورة؟
 - HTML/HTML5
 - CSS/CSS3
