@@ -5,7 +5,7 @@
 
 
  ## ما هي خطة المعسكر؟
- - <details>
+ <details>
 <summary><b>Ustudy Course: </b><a href="https://ustudy24.com/course/1262"><b>Mobile Developer (React Native)</b></a></summary>
 
   * Week 1: [Introduction To Programming]()
