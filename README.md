@@ -4,7 +4,7 @@
 
 
 
- ## ما هي خطة المعسكر؟
+## Study Plan
  <details>
 <summary><b>Ustudy Course: </b><a href="https://ustudy24.com/course/1262"><b>Mobile Developer (React Native)</b></a></summary>
 
@@ -16,6 +16,7 @@
   * Week 6: []()
 </details>
 
+ ## ما هي خطة المعسكر؟
 - Camp Start `01/08/2023`
 - Camp Duration `6` Weeks
 - Total Number Of Hours `50 - 60` Training Hours
