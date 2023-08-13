@@ -15,9 +15,11 @@
   * Week 5: []()
   * Week 6: []()
 </details>
-- المعسكر يبدا 1/8
-- مدة المعسكر 6 أسابيع
-- اجمالي عدد الساعات قرابة ٥٠-٦٠ تدريبية
+
+- Camp Start 01/08/2023
+- Camp Duration 6 Weeks
+- Total Number Of Hours `50 - 60` Training Hours
+
 
 
 
