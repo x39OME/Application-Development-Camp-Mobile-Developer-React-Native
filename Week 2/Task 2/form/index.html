@@ -1,28 +1,40 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <meta name="viewport" content="width=device-width, initial-scale=1.0">
-  <title>Task 2</title>
-</head>
-<body>
-  <form method="get" action="">
-    <label for="txt">Text Input</label>
-    <input id="txt" type="text" name="txt" readonly placeholder="Read only">
-    <br>
-    <label for="mail">Email</label>
-    <input id="mail" type="email" name="mail" placeholder="Type Your Email">
-    <br>
-    <label for="pass">Password</label>
-    <input id="pass" type="password" maxlength="4" size="5" required placeholder="Password">
-    <br>
-    <label for="date">Text Input</label>
-    <input id="date" type="text" placeholder="Type Your Date">
-    <br>
-    <label for="num">Number</label>
-    <input id="num" type="number" min="1" max="5" placeholder="Type Your Number">
-    <br>
-    <input type="submit">
-  </form>
-</body>
+  <head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Task 2</title>
+    <style>
+      body form{
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        flex-direction: column;
+        gap: 3px;
+      }
+      form label{
+        margin-bottom: 3px;
+      }
+    </style>
+  </head>
+  <body>
+    <form method="get" action="">
+      <label for="txt">Text Input</label>
+      <input id="txt" type="text" name="txt" readonly placeholder="Read only">
+      <br>
+      <label for="mail">Email</label>
+      <input id="mail" type="email" name="mail" placeholder="Type Your Email">
+      <br>
+      <label for="pass">Password</label>
+      <input id="pass" type="password" maxlength="4" size="5" required placeholder="Password">
+      <br>
+      <label for="date">Text Input</label>
+      <input id="date" type="text" placeholder="Type Your Date">
+      <br>
+      <label for="num">Number</label>
+      <input id="num" type="number" min="1" max="5" placeholder="Type Your Number">
+      <br>
+      <input type="submit">
+    </form>
+  </body>
 </html>
