@@ -1,0 +1,21 @@
+body{
+  background-color: #CCC;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+}
+h1{
+  font-size: 41px;
+  color: brown;
+}
+hr{
+  color: #fff;
+  width: 100%;
+}
+p{
+  background-color: cadetblue;
+  color: #fff;
+  text-align: center;
+  font-size: 21px;
+}
