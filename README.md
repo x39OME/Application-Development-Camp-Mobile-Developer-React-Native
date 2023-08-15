@@ -1,7 +1,7 @@
 # معسكر تطوير التطبيقات - Cross-platform Mobile Development
+<img src="./logo.png" style="width:300px;">
 
 ![Ustudy](https://raw.githubusercontent.com/x39OME/Ustudy-Camp/main/ustudy24.jpg)
-
 
 
 ## Study Plan
