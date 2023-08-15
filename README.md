@@ -1,4 +1,7 @@
-# معسكر تطوير التطبيقات - Cross-platform Mobile Development
+# Ustudy Application Development Camp (React Native)
+
+
+## Cross-platform Mobile Development - معسكر تطوير التطبيقات
 <img src="./logo.png" style="width:300px;">
 
 ![Ustudy](https://raw.githubusercontent.com/x39OME/Ustudy-Camp/main/ustudy24.jpg)
