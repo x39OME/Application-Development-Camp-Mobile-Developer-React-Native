@@ -9,7 +9,7 @@
 # Cross-platform Mobile Development - معسكر تطوير التطبيقات
 
 ## Study Plan
- <details>
+<details>
 <summary><b>Ustudy Course: </b><a href="https://ustudy24.com/course/1262"><b>Mobile Developer (React Native)</b></a></summary>
 
   * Week 1: [Introduction To Programming & Web]()
@@ -58,3 +58,6 @@
 
 ## Proof of Completion
 
+- <a href=""> Verified Ustudy Certifies</a>
+
+<img src="./certificate.png" alt="certificate">
