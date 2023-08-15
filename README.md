@@ -3,10 +3,9 @@
 
 <img src="./logo.png" style="width:300px;">
 
-# Cross-platform Mobile Development - معسكر تطوير التطبيقات
-
 ![Ustudy](https://raw.githubusercontent.com/x39OME/Ustudy-Camp/main/ustudy24.jpg)
 
+# Cross-platform Mobile Development - معسكر تطوير التطبيقات
 
 ## Study Plan
 <details>
