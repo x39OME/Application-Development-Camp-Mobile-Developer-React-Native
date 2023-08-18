@@ -3,7 +3,7 @@
 
 ## Week 3 Part 1 Assessment
 
-## 1. How To use Shorthand code to create border *
+### 1. How To use Shorthand code to create border *
 
   - border: red
   - border: solid red 1px;
@@ -13,7 +13,7 @@
     A1: border: 1px solid red;
     ```
 
-## 2. To create border radius and make element like circle  *
+### 2. To create border radius and make element like circle  *
 
   - border-radius: 50%;
   - border-radius: 50px;
