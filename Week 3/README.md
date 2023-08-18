@@ -10,26 +10,40 @@
   - border: 1px solid red;
 
     ```
-    A: border: 1px solid red;
+    A1: border: 1px solid red;
     ```
 
 ## `Q2`: To create border radius and make element like circle  *
 
-border-radius: 50%;
-border-radius: 50px;
-border-radius: circle;
+  - border-radius: 50%;
+  - border-radius: 50px;
+  - border-radius: circle;
 
-## `Q3`: What will happened when we use *
+    ```
+    A2: border-radius: 50%;
+    ```
+    
+## `Q3`: What will happened when we use `transform: scale(2);` *
+  
+  - Item will rotate
+  - Item will move from his place
+  - Item size will increase
 
-transform: scale(2); 
-Item will rotate
-Item will move from his place
-Item size will increase
+    ```
+    A3: Item size will increase
+    ```
 
 ## `Q4`: when I need to provide server font what should I do? *
 
-Download font from internet and add it in our website file
-But font link in head tag
-
-
+  - Download font from internet and add it in our website file
+  - But font link in head tag
+  - Another ِِAnswer 
+    ```
+    A4: Download font from internet and add it in our website file
+    ```
+    
 ## `Q5`: What is the library that we use to add icons in our website
+
+    ```
+    A5: Font Awesome
+    ```
