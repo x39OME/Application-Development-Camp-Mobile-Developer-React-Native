@@ -5,9 +5,13 @@
 
 ## `Q1`:How To use Shorthand code to create border *
 
-border: red
-border: solid red 1px;
-border: 1px solid red;
+  - border: red
+  - border: solid red 1px;
+  - border: 1px solid red;
+
+    ```
+    A: border: 1px solid red;
+    ```
 
 ## `Q2`: To create border radius and make element like circle  *
 
