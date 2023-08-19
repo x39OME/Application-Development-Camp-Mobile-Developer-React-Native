@@ -11,7 +11,7 @@ Week 2: [Introduction To Web Technology](https://github.com/x39OME/Ustudy-Applic
 
 
 ## Week 2 Tasks
-  - 1: [Introduction To Programming](https://github.com/x39OME/Ustudy-Application-Development-Camp/tree/main/Week%202/Task%202)
+  - 1: [Introduction To Web Technology](https://github.com/x39OME/Ustudy-Application-Development-Camp/tree/main/Week%202/Task%202)
 
       ```
         1. Create form tag include Text, Password, email, Date, Number, submit (get).
