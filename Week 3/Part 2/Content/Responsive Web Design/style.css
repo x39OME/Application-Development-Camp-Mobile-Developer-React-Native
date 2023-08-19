@@ -1,0 +1,60 @@
+.flex{
+    display: flex;
+}
+.w-25{
+    width: 25%;
+}
+.w-40{
+    width: 40%;
+    height: 100px;
+}
+nav{background-color: aquamarine;}
+div{
+background-color: blue;
+}
+aside{
+    background-color: blueviolet;
+}
+.head{
+    /* flex-direction: column-reverse ; */
+    justify-content: space-evenly ;
+    align-items: center ;
+    flex-wrap: nowrap;
+    
+}
+.div1{
+    height: 50px;
+    border: 1px black solid;
+}
+.red{
+    background-color: red;
+    height: 20px;
+}
+
+.d1{
+    background-color: aquamarine;
+    border: 1px black solid;
+    height: 50px;
+
+}
+
+.d2{
+    height: 50px;
+    color: blue;
+    border: 1px black solid;
+min-width: 100px;
+}
+/* body{
+    background-color: aqua;
+}
+@media screen and (min-width:450px) {
+    body{
+        background-color: red;
+    }
+}
+
+@media screen and (min-width:600px) {
+    body{
+        background-color: yellow;
+    }
+} */
