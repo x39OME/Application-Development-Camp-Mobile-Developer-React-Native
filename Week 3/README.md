@@ -1,50 +1,29 @@
 # Week 3
 
+## Table of Content
 
-## Week 3 Part 1 Assessment
-
-### 1. How To use Shorthand code to create border *
-
-  - border: red
-  - border: solid red 1px;
-  - border: 1px solid red;
-
+Week 3: [RWD & Introduction To Javascript](https://github.com/x39OME/Ustudy-Application-Development-Camp/tree/main/Week%203)
+  - [Part 1](https://github.com/x39OME/Ustudy-Application-Development-Camp/tree/main/Week%203/Part%201):
     ```
-    A1: border: 1px solid red;
+    - 1: Css 3
+    - 2: Google Fonts
+    - 3: Font Awesome
     ```
-
-### 2. To create border radius and make element like circle  *
-
-  - border-radius: 50%;
-  - border-radius: 50px;
-  - border-radius: circle;
-
+  - [Part 2](https://github.com/x39OME/Ustudy-Application-Development-Camp/tree/main/Week%203/Part%202):
     ```
-    A2: border-radius: 50%;
-    ```
+    - 1: Responsive Web Design
+    - 2: Bootstrap
     
-### 3. What will happened when we use `transform: scale(2);` *
-  
-  - Item will rotate
-  - Item will move from his place
-  - Item size will increase
-
-    ```
-    A3: Item size will increase
     ```
 
-### 4. when I need to provide server font what should I do? *
 
-  - Download font from internet and add it in our website file
-  - But font link in head tag
-  - Another ِِAnswer
 
-    ```
-    A4: Download font from internet and add it in our website file
-    ```
-    
-### 5. What is the library that we use to add icons in our website
+## Week 2 Tasks
+  - 1: [Introduction To Programming](https://github.com/x39OME/Ustudy-Application-Development-Camp/tree/main/Week%202/Task%202)
 
-    ```
-    A5: Font Awesome
-    ```
+      ```
+        1. Create form tag include Text, Password, email, Date, Number, submit (get).
+        2. Use input Attributes include readonly, size, maxlength, min and max, placeholder, required.
+        3. Create a new HTML file and link it with an external css sheet.
+        4. Add to this css file some styles to your HTML tags (h1, p)
+      ```
