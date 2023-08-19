@@ -18,12 +18,15 @@ Week 3: [RWD & Introduction To Javascript](https://github.com/x39OME/Ustudy-Appl
 
 
 
-## Week 2 Tasks
-  - 1: [Introduction To Programming](https://github.com/x39OME/Ustudy-Application-Development-Camp/tree/main/Week%202/Task%202)
+## Week 3 Tasks
+  - Part 1: [RWD & Introduction To Javascript]()
 
       ```
-        1. Create form tag include Text, Password, email, Date, Number, submit (get).
-        2. Use input Attributes include readonly, size, maxlength, min and max, placeholder, required.
-        3. Create a new HTML file and link it with an external css sheet.
-        4. Add to this css file some styles to your HTML tags (h1, p)
+
+      ```
+      
+  - Part 2: [RWD & Introduction To Javascript]()
+
+      ```
+
       ```
