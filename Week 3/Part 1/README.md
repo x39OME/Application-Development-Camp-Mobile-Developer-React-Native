@@ -1,7 +1,7 @@
 # Week 3 Part 1
 
 
-## Part 1 Assessment
+## Part 1 [Assessment](https://github.com/x39OME/Ustudy-Application-Development-Camp/tree/main/Week%203/Part%201/Assessment%20Task%203%20Part%201)
 
 ### 1. How To use Shorthand code to create border *
 
