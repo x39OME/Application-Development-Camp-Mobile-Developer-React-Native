@@ -10,7 +10,7 @@
           - 3. Web Developer `( Front End )`
           - 4. Web Developer `( Back End )`
           - 5. Mobile Development `( Technologies )`
-      ```
+      
 
 ## Week 1 Tasks
   - 1: [Introduction To Programming](https://github.com/x39OME/Ustudy-Application-Development-Camp/tree/main/Week%201/Task%201)
