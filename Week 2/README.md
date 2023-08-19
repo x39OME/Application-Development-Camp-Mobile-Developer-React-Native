@@ -1,13 +1,14 @@
 # Week 2
 
 ## Table of Content
-
-Week 2: [Introduction To Web Technology](https://github.com/x39OME/Ustudy-Application-Development-Camp/tree/main/Week%202/Content)
-  - 1. What is the internet?
-  - 2. How internet works?
-  - 3. How website run?
-  - 4. What is HTML?
-  - 5. What is CSS?
+  
+  Week 2: [Introduction To Web Technology](https://github.com/x39OME/Ustudy-Application-Development-Camp/tree/main/Week%202/Content)
+  
+        - 1. What is the internet?
+        - 2. How internet works?
+        - 3. How website run?
+        - 4. What is HTML?
+        - 5. What is CSS?
 
 
 ## Week 2 Tasks
