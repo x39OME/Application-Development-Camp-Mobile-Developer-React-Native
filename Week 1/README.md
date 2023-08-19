@@ -7,9 +7,9 @@
       
           - 1. Way To Be Programmer
           - 2. How We Write Code
-          - 3. Web Developer `( Front End )`
-          - 4. Web Developer `( Back End )`
-          - 5. Mobile Development `( Technologies )`
+          - 3. Web Developer ( Front End )
+          - 4. Web Developer ( Back End )
+          - 5. Mobile Development ( Technologies )
       
 
 ## Week 1 Tasks
