@@ -11,9 +11,9 @@
 <details>
 <summary><b>Ustudy Course: </b><a href="https://ustudy24.com/course/1262"><b>Mobile Developer (React Native)</b></a></summary>
 
-  * Week 1: [Introduction To Programming & Web](https://github.com/x39OME/Ustudy-Application-Development-Camp/tree/main/Week%201)
-  * Week 2: [Introduction To HTML & CSS](https://github.com/x39OME/Ustudy-Application-Development-Camp/tree/main/Week%202)
-  * Week 3: [RWD & Introduction To Javascript](https://github.com/x39OME/Ustudy-Application-Development-Camp/tree/main/Week%203)
+  * Week 1: [Introduction To Programming & Web](https://github.com/x39OME/Ustudy-Application-Development-Camp/tree/main/Week%201#week-1)
+  * Week 2: [Introduction To HTML & CSS](https://github.com/x39OME/Ustudy-Application-Development-Camp/tree/main/Week%202#week-2)
+  * Week 3: [RWD & Introduction To Javascript](https://github.com/x39OME/Ustudy-Application-Development-Camp/tree/main/Week%203#week-3)
   * Week 4: []()
   * Week 5: []()
   * Week 6: []()
