@@ -9,8 +9,8 @@ Week 1: [Introduction To Programming](https://github.com/x39OME/Ustudy-Applicati
   - 4: Mobile Development `( Technologies )`
 
 
-## Task Week 1
-  - 1: [](https://github.com/x39OME/Ustudy-Application-Development-Camp/tree/main/Week%201)
+## Week 1 Tasks
+  - 1: [Introduction To Programming](https://github.com/x39OME/Ustudy-Application-Development-Camp/tree/main/Week%201)
 
       ```
           1. Create your first html file with name (index.html)
