@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <title>Animation</title>
+  <style>
+    #div1{
+      width: 200px;
+      height: 200px;
+      background-color: aqua;
+      transition-property: all;
+      transition-duration: 4s;
+      /* transition-delay: 2s; */
+      transition-timing-function: linear;
+      /* transition: all 4s 2s linear; */
+    }
+    #div1:hover{
+      background-color: red;
+      width: 400px;
+      height: 400px;
+
+    }
+    #div2{
+      width: 100px;
+      height: 100px;
+      background-color: blue;
+      margin: 50px;
+      /* transform: scale(1.1, 1.6); */
+      /* transform: scaleX(1.5); */
+      /* transform: scaleY(2); */
+      /* transform: translate(100px,10px); */
+      transition: all 2s;
+      border-radius: 20px 40px 60px 60px;
+      font-size: 40px;
+      color: white;
+      text-align: center;
+    }
+    #div2:hover{
+      /* transform: translate(40px, 80px); */
+      /* transform: scaleY(2); */
+      /* transform: translateY(70px); */
+      /* transform: rotate(180deg); */
+      /* transform-origin: top left; */
+      /* transform: rotateY(180deg); */
+      transform: rotateX(180deg);
+    }
+    #div3{
+      width: 150px;
+      height: 150px;
+      background-color: bisque;
+      margin: 50px;
+      animation-name: hmada;
+      animation-duration: 10s;
+      animation-delay: 2s;
+    }
+    /* @keyframes hmada {
+      from{
+        background-color: green;
+      }
+      to{
+        background-color: yellow;
+      }
+    } */
+
+@keyframes hmada{
+  0%{
+    background-color: green;
+    transform: scale(1.4);
+  }
+  25%{
+    background-color: yellow;
+  }
+  50%{
+    background-color: blue;
+    transform: translate(40px);
+  }
+  75%{
+    background-color: brown;
+  }
+  100%{
+    background-color: aqua;
+    width: 33px;
+  }
+}
+
+  </style>
+</head>
+<body>
+  <!-- <div id="div1"></div> -->
+  <!-- <div id="div2">Hii</div> -->
+  <div id="div3"></div>
+</body>
+</html>
