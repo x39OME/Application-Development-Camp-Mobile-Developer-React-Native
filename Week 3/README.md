@@ -13,7 +13,7 @@ Week 3: [RWD & Introduction To Javascript](https://github.com/x39OME/Ustudy-Appl
     ```
     - 1. Responsive Web Design
     - 2. Bootstrap
-    
+    - 3. Introduction To Javascript
     ```
 
 
