@@ -6,13 +6,13 @@ Week 3: [RWD & Introduction To Javascript](https://github.com/x39OME/Ustudy-Appl
   - [Part 1:](https://github.com/x39OME/Ustudy-Application-Development-Camp/tree/main/Week%203/Part%201)
     ```
     - 1. Css 3
-    - 2. Google Fonts
-    - 3. Font Awesome
+    - 2. Intro to Fonts, Web Fonts
+    - 3. Icon (Font Awesome)
     ```
   - [Part 2:](https://github.com/x39OME/Ustudy-Application-Development-Camp/tree/main/Week%203/Part%202)
     ```
     - 1. Responsive Web Design
-    - 2. Bootstrap
+    - 2. Bootstrap 5 Library
     - 3. Introduction To Javascript
     ```
 
