@@ -13,7 +13,7 @@
       
 
 ## Week 1 Tasks
-      ```
+    
           1. Create your first html file with name (index.html)
           2. In the same file (index.html) add “hello world” in heading tag and paragraph tag
           3. Create Three links (Google - Facebook - youtube) and make each item go to this website in new tab
@@ -23,4 +23,3 @@
             ○ HTML
             ○ CSS
             ○ Javascript
-      ```
