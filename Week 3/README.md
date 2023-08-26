@@ -20,10 +20,7 @@ Week 3: [RWD & Introduction To Javascript](https://github.com/x39OME/Ustudy-Appl
 
 ## Week 3 Tasks
   - Part 1:
-    - [ Forms](https://github.com/x39OME/Ustudy-Application-Development-Camp/tree/main/Week%203/Part%201/Assessment%20Task%203%20Part%201)
+    - [Forms](https://github.com/x39OME/Ustudy-Application-Development-Camp/tree/main/Week%203/Part%201/Assessment%20Task%203%20Part%201)
       
-  - Part 2: [RWD & Introduction To Javascript]()
-
-      ```
-
-      ```
+  - Part 2:
+    - [PDF](https://github.com/x39OME/Ustudy-Application-Development-Camp/tree/main/Week%203/Part%202/Task%203%20Part%202)
