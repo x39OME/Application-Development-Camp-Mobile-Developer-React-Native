@@ -7,7 +7,7 @@
         - 1. Browser Object Model (BOM)
         - 2. Document Object Model (DOM)
         - 3. Events HTML
-        - 4. What Is NodeJs & React App
+        - 4. What Is NodeJs & Install React App
         - 5. React Bootstrap
         - 6. Material Ui
 
