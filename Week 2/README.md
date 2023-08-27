@@ -10,7 +10,6 @@
         ○ 4. What is HTML?
         ○ 5. What is CSS?
 
-
 ## Week 2 Tasks
 
 - Part 1: Answers
