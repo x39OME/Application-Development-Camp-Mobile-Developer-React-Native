@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>String</title>
+</head>
+
+<body>
+  <script>
+    // var str1 = 'Hello World'
+    // var str2 = "Hello"
+    // var str3 = `Hello`
+    // console.log(str1.length);
+    // console.log(str1.indexOf('W'));
+
+
+var welcomeMessage = 'Welcome Hmada in our hmada course'
+  
+var testReplace = welcomeMessage.replace('hmada', ' ')
+var testReplace2 = welcomeMessage.replaceAll('hmada', ' ')
+var testReplace3 = welcomeMessage.replaceAll(/hmada/ig, ' ')
+/*
+Regx
+/your selection /igm
+i => ignore (Aa)
+g => global
+m => more than one line
+*/
+
+
+console.log(testReplace3);
+
+</script>
+</body>
+
+</html>

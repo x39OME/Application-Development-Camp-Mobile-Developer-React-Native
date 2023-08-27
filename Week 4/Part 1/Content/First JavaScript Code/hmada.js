@@ -1,0 +1,1 @@
+document.write('First JS code outside HTML file')

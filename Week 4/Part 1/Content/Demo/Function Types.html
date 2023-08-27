@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>FT</title>
+</head>
+
+<body>
+  <script>
+    function hello() {
+      console.log('Hello');
+    }
+    var x = function () {
+      console.log('ABC');
+    }
+    x()
+    var y = function (q, w) {
+      return q + w;
+    }
+    console.log(y(10, 17));
+
+    var arrowFun = () => {
+
+      console.log('Arrow Fun');
+      return;
+    }
+    var arrowFun2 = (y, u) => y + u
+    // ==
+    // function arrowFun2(y,u){
+    //   return y + u
+    // }
+
+    console.log(arrowFun2(5, 10));
+
+    arrowFun()
+  </script>
+</body>
+
+</html>

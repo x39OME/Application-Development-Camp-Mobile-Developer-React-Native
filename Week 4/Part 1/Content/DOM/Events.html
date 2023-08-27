@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <title>Events</title>
+</head>
+
+<body onload="onBodyLoad()">
+  <h1></h1>
+  <form onsubmit="formSubmit()">
+    <input type="text" id="hmada" onchange="inputChange(event)">
+ <div>
+<label for="pass">Password</label>
+   <input type="password" name="passowrd" id="pass" onkeyup="keyUp()" onkeydown="keyDown()">
+ </div>
+    <input type="submit">
+  </form>
+  <button onclick="addNewContent()">
+    Add content
+  </button>
+  <script>
+
+    function addNewContent() {
+      var h1Tag = document.querySelector('h1');
+      h1Tag.innerHTML = 'Hello Event'
+    }
+
+    function inputChange(event) {
+      console.log(event.target.value);
+    }
+
+    function formSubmit() {
+      alert('Form Done')
+    }
+
+    function onBodyLoad() {
+      console.log('Body Loaded');
+    }
+
+    function keyDown() {
+      document.getElementById('pass').style.background = 'red'
+    }
+    function keyUp() {
+      document.getElementById('pass').style.background = 'green'
+    }
+
+  </script>
+</body>
+
+</html>
