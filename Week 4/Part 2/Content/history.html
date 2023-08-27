@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <title>History</title>
+</head>
+
+<body>
+  <h1>History & Location</h1>
+<button onclick="goBack()">Go Back</button>
+<button onclick="reloadPage()">Reload</button>
+<button onclick="replaceUrl()">Replace</button>
+<form action="Child.html" method="get">
+  <input type="text" name="FullName">
+  <input type="submit" value="Send Data">
+</form>
+  <script>
+function goBack(){
+  window.history.back()
+}
+
+function reloadPage(){
+  window.location.reload()
+}
+
+function replaceUrl(){
+  window.location.replace('https://google.com/')
+}
+  </script>
+</body>
+
+</html>
