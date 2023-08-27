@@ -14,10 +14,10 @@
 ## Week 2 Tasks
 
 - Part 1:
-    ### - [Form Tag](https://github.com/x39OME/Ustudy-Application-Development-Camp/tree/main/Week%202/Task%202/form)
+    ### [Form Tag](https://github.com/x39OME/Ustudy-Application-Development-Camp/tree/main/Week%202/Task%202/form)
                 1.  Create form tag include Text, Password, email, Date, Number, submit (get).
                 2. Use input Attributes include readonly, size, maxlength, min and max, placeholder, required.
 - Part 2:
-    ### - [Link Style](https://github.com/x39OME/Ustudy-Application-Development-Camp/tree/main/Week%202/Task%202/link-css)
+    ### [Link Style](https://github.com/x39OME/Ustudy-Application-Development-Camp/tree/main/Week%202/Task%202/link-css)
                 3. Create a new HTML file and link it with an external css sheet.
                 4. Add to this css file some styles to your HTML tags (h1, p)
