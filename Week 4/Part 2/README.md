@@ -11,7 +11,11 @@
   
   ```
 ### 2. What are the 3 steps you need to create your first react app ?
-
+  ```
+      1- Download & Install NodeJs
+      2- Open CMD npx create-react-app my-first-app-react
+      3- npm run
+  ```
 
 
 ### 3. 3 differences between JSX and HTML?
