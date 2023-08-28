@@ -4,7 +4,7 @@
 
 ### 1. What is the VDOM?
   ```
-      The virtual DOM (VDOM) is a programming concept where an ideal, or “virtual”, representation of a UI is kept in memory and        synced with the “real” DOM by a library such as ReactDOM. This process is called reconciliation.
+      The virtual DOM (VDOM) is a programming concept where an ideal, or “virtual”, representation of a UI is kept in memory and  synced with the “real” DOM by a library such as ReactDOM. This process is called reconciliation.
   ```
 ### 2. What are the 3 steps you need to create your first react app ?
   ```
