@@ -2,7 +2,7 @@
 
 ## Table of Content
   
-  Week 2: [JavaScript Advanced & Introduction To React Js]()
+  Week 4: [JavaScript Advanced & Introduction To React Js]()
   
       - JavaScript Advanced
           ○ 1. Browser Object Model (BOM)
