@@ -5,13 +5,18 @@
   Week 4: [JavaScript Advanced & Introduction To React Js]()
   
       - JavaScript Advanced
-          ○ 1. Browser Object Model (BOM)
-          ○ 2. Document Object Model (DOM)
-          ○ 3. Events HTML
+          ○ 1. RegEx, Object, setInterval, setTimeOut
+          ○ 2. Browser Object Model (BOM)
+          ○ 3. Document Object Model (DOM)
+          ○ 4. Events HTML
       - Introduction To ReactJs
-          ○ 4. What Is NodeJs & Install React App
-          ○ 5. React Bootstrap
-          ○ 6. Material Ui
+          ○ 5. What Is NodeJs & Creat React App
+          ○ 6. JSX
+          ○ 7. Components
+          ○ 8. State, Props
+          ○ 9. React Bootstrap,
+          ○ 10. React Material Ui
+
 
 
 ## Week 4 Tasks
