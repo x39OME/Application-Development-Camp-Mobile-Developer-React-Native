@@ -13,7 +13,7 @@
           ○ 5. What Is NodeJs & Creat React App
           ○ 6. JSX
           ○ 7. Components
-          ○ 8. State, Props
+          ○ 8. Event, State, Props
           ○ 9. React Bootstrap,
           ○ 10. React Material Ui
 
