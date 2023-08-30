@@ -15,7 +15,11 @@
 
 
 ### 3. 3 differences between JSX and HTML?
-
+  ```
+      1. JSX must return one element which we’ll call a parent element - In HTML multiple elements can be returned
+      2. JSX elements have props - HTML elements have attributes.
+      3. All HTML attributes and event references in JSX become camelCase - In Html It is not necessary to use camelCase
+  ```
 
 
 ### 4. There are 5 methods (functions) in a class component. (write 3 method)
