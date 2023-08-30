@@ -23,7 +23,11 @@
 
 
 ### 4. There are 5 methods (functions) in a class component. (write 3 method)
-
+```
+1. componentDidMount()
+2. componentWillUnmount()
+3. componentDidUpdate()
+```
 
 
 ### 5. What are the differences between mount, update, and unmount?
