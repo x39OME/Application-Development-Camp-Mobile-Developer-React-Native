@@ -39,7 +39,28 @@
 
 
 ### 7. Write a code of Event with function change state value. (++ or - -)
+```
+export default class ButtonOnClick extends Component {
 
+  ButtonOnClick = () => {
+    this.setState({counter: this.state.counter + 1 });
+  }
+  constructor(props){
+    super(props);
+    this.state = {
+      counter: 0
+    }
+  }
+  render() {
+    return (
+      <>
+        <p>{this.state.counter}</p>
+        <button onClick={this.ButtonOnClick}>+</button>
+      </>
+    )
+  }
+}
+```
 
 
 ### 8. What is the difference between Bootstrap and React Bootstrap?
