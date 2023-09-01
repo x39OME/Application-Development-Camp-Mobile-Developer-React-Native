@@ -47,7 +47,37 @@
 
 
 ### 9. write a code of list and key ?
+```
+export default class keys extends Component {
 
+  // eslint-disable-next-line no-useless-constructor
+  constructor(){
+    super();
+    this.state={
+      users:[
+        {name:"Sam", email:"Sam@hotmail.com"},
+        {name:"AN", email:"AN@hotmail.com"},
+        {name:"Seqweam", email:"Sqweam@hotmail.com"},
+        {name:"Ahmed", email:"Ahmed@hotmail.com"},
+        {name:"Ahmed123", email:"Ahmed123@hotmail.com"}
+      ]
+    }
+  }
+
+
+  render() {
+    return (
+      <>
+        <ul>
+                {this.state.users.map((users, index)=>{
+                  return <li key={users.email}>{users.name}</li>
+                })}
+        </ul>
+      </>
+    )
+  }
+}
+```
 
 
 ### 10. What is Condeationa Rendering and write one of his ways?
