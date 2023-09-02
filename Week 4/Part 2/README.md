@@ -109,5 +109,7 @@ export default class keys extends Component {
 
 
 ### 10. What is Condeationa Rendering and write one of his ways?
-
+  ```
+      Conditional rendering You can use it to control what content is rendered and when, and it improves user experience, simplifies your code, and helps you create more flexible and adaptable components.
+  ```
 
