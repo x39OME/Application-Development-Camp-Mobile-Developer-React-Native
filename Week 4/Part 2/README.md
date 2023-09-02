@@ -40,6 +40,44 @@
 
 ### 6. Write state and set state code for number variable ?
 
+  ```
+      export default class Login extends Component {
+      
+        ButtonOnClick = () => {
+          this.setState({counter: this.state.counter + 1 });
+        }
+        // eslint-disable-next-line no-useless-constructor
+        constructor(props){
+          super(props);
+          this.state={
+            isLogin:true
+          }
+        }
+        loginHandler = () =>{
+          this.setState({isLogin:(this.state.isLogin)? false : true})
+        }
+        render() {
+          return (
+            <>
+              {
+                this.state.isLogin ? 
+                  <ul>
+                    {this.state.users.map((users, index)=>{
+                      // if(users.isActive) {
+                      //   return <li key={users.email}>{users.name}</li>
+                      // }
+                      return users.isActive && <li key={users.email}>{users.name}</li>
+                    })}
+                  </ul>
+                : 
+                <p>You Must Be Login To See This List</p>
+              }
+              <Button variant="warning" size='lg' onClick={()=>{this.loginHandler()}}>Hello loginHandler</Button>
+            </>
+          )
+        }
+      }
+  ```
 
 
 ### 7. Write a code of Event with function change state value. (++ or - -)
