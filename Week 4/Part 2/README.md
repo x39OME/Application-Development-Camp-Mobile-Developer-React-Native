@@ -24,14 +24,18 @@
 
 ### 4. There are 5 methods (functions) in a class component. (write 3 method)
 ```
-1. componentDidMount()
-2. componentWillUnmount()
-3. componentDidUpdate()
+    1. componentDidMount()
+    2. componentWillUnmount()
+    3. componentDidUpdate()
 ```
 
 
 ### 5. What are the differences between mount, update, and unmount?
-
+  ```
+      The Mounting Phase begins when a component is first created and inserted into the DOM.
+      The Updating Phase occurs when a component's state or props change.
+      And the Unmounting Phase occurs when a component is removed from the DOM.
+  ```
 
 
 ### 6. Write state and set state code for number variable ?
@@ -39,32 +43,35 @@
 
 
 ### 7. Write a code of Event with function change state value. (++ or - -)
-```
-export default class ButtonOnClick extends Component {
-
-  ButtonOnClick = () => {
-    this.setState({counter: this.state.counter + 1 });
-  }
-  constructor(props){
-    super(props);
-    this.state = {
-      counter: 0
-    }
-  }
-  render() {
-    return (
-      <>
-        <p>{this.state.counter}</p>
-        <button onClick={this.ButtonOnClick}>+</button>
-      </>
-    )
-  }
-}
-```
+  ```
+      export default class ButtonOnClick extends Component {
+      
+        ButtonOnClick = () => {
+          this.setState({counter: this.state.counter + 1 });
+        }
+        constructor(props){
+          super(props);
+          this.state = {
+            counter: 0
+          }
+        }
+        render() {
+          return (
+            <>
+              <p>{this.state.counter}</p>
+              <button onClick={this.ButtonOnClick}>+</button>
+            </>
+          )
+        }
+      }
+  ```
 
 
 ### 8. What is the difference between Bootstrap and React Bootstrap?
-
+  ```
+      - React-Bootstrap, is a library that allows developers to use Bootstrap components in their React applications. It allows developers to use the same pre-built components from Bootstrap, but with the added flexibility and power of React.
+      - Bootstrap is a popular open-source front-end framework that allows developers to quickly create responsive and mobile-first websites.
+  ```
 
 
 ### 9. write a code of list and key ?
