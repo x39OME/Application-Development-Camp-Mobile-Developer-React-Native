@@ -9,6 +9,8 @@
       ○
       ○
   ```
+## Task 2 Redux 
+
   Part 2: [React app with a redux system to convert between direction and language]()
   ```
   - Steps
