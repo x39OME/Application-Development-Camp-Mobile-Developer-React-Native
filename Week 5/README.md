@@ -21,12 +21,13 @@
           ○ 13. Redux Hooks
 
 ## Week 5 Tasks
- - #### [Answers]()
+ -  [Part 1]()
       - [React]()
     ```
-      ●
-      ●
-      ●
-          ○	
-
+      ● Create a React app with 3 pages and a routing system.
+    ```
+ -  [Part 2]()
+      - [Redux]()
+    ```
+      ● Create a React app with a redux system to convert between direction and language.
     ```
