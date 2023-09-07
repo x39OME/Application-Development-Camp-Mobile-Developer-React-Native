@@ -19,7 +19,7 @@
 
 
 # Steps
-## LINKS
+## Links
 
 #### 1. [NodeJs](https://nodejs.org/en)
 ```
