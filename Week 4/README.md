@@ -19,7 +19,7 @@
 
 ## Steps
 
-## Code Explanation
+## CMD
 
 #### 1. [NodeJs](https://nodejs.org/en)
 ```
