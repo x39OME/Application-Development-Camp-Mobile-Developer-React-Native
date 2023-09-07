@@ -17,6 +17,32 @@
           ○ 9. React Bootstrap,
           ○ 10. React Material Ui
 
+## Steps
+
+## Code Explanation
+
+#### 1. [NodeJs](https://nodejs.org/en)
+```
+- Download LTS Version 18.17.1 LTS & Install
+```
+#### 2. [ReactJs](https://react.dev/)
+```
+- npx create-react-app my-app
+- npm start
+- npm install
+```
+#### 3. [Bootstrap](https://getbootstrap.com/)
+```
+    - npm i bootstrap@5.3.1
+```
+#### 4. [React Bootstrap](https://react-bootstrap.netlify.app/docs/getting-started/introduction)
+```
+    - npm install react-bootstrap bootstrap
+```
+#### 5. [Meterial Ui](https://mui.com/material-ui/getting-started/installation/)
+```
+   - npm install @mui/material @emotion/react @emotion/styled
+```
 
 
 ## Week 4 Tasks
