@@ -33,15 +33,15 @@
 ```
 #### 3. [Bootstrap](https://getbootstrap.com/)
 ```
-    - npm i bootstrap@5.3.1
+- npm i bootstrap@5.3.1
 ```
 #### 4. [React Bootstrap](https://react-bootstrap.netlify.app/docs/getting-started/introduction)
 ```
-    - npm install react-bootstrap bootstrap
+- npm install react-bootstrap bootstrap
 ```
 #### 5. [Meterial Ui](https://mui.com/material-ui/getting-started/installation/)
 ```
-   - npm install @mui/material @emotion/react @emotion/styled
+- npm install @mui/material @emotion/react @emotion/styled
 ```
 
 ## Week 4 Tasks
