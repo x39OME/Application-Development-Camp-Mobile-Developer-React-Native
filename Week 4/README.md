@@ -23,7 +23,7 @@
 
 #### 1. [NodeJs](https://nodejs.org/en)
 ```
-- Download LTS Version 18.17.1 LTS & Install
+- Download LTS Version & Install
 ```
 #### 2. [ReactJs](https://react.dev/)
 ```
