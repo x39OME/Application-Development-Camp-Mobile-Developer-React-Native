@@ -19,30 +19,28 @@ import Categories from './components/categories/categories';
 import SingleCategorie from './components/categories/singleCate';
 import AddProduct from './components/product/addProduct';
 
-function App() { // npm install react-router-dom
+function App() {
   return (
   <>
     <MainHeader /> 
     <div className='container mt-4'>
       <Routes>
-      <Route path="/" element={<Home />}/>
-      <Route path="/about" element={<AboutFuctional />}/>
-      <Route path="/cate" element={<Categories />}/>
-      <Route path="/add" element={<AddProduct />}/>
-      <Route path="/product" element={<Product />}>
+        <Route path="/" element={<Home />}/>
+        <Route path="/about" element={<AboutFuctional />}/>
+        <Route path="/cate" element={<Categories />}/>
+        <Route path="/add" element={<AddProduct />}/>
 
-      <Route path="men" element={<MenProduct />}/>
-      <Route path="women" element={<WomenProduct />}/>
+        <Route path="/product" element={<Product />}>
+          <Route path="men" element={<MenProduct />}/>
+          <Route path="women" element={<WomenProduct />}/>
+        </Route>
 
-      </Route>
-
-      <Route path='/login' element={<Login />}/>
-      <Route path='/single/:id' element={<SingleProduct/>}/>
-      <Route path='/cate/:name' element={<SingleCategorie/>}/>
-
+        <Route path='/login' element={<Login />}/>
+        <Route path='/single/:id' element={<SingleProduct/>}/>
+        <Route path='/cate/:name' element={<SingleCategorie/>}/>
 
 
-      <Route path='*' element={<NotFound />}/>
+        <Route path='*' element={<NotFound />}/>
       </Routes>
     </div>
 
