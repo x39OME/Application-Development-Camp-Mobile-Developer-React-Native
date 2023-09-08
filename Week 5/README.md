@@ -44,6 +44,19 @@
 - npm install @reduxjs/toolkit
 ```
 
+#### 2. [Axios](https://axios-http.com/docs/intro)
+```
+- npm install axios
+```
+#### 3. [React Router](https://reactrouter.com/en/main)
+```
+- npm i react-router-dom
+```
+#### 4. [React Bootstrap](https://react-bootstrap.netlify.app/)
+```
+npm i react-bootstrap bootstrap
+```
+
 ## Week 5 Tasks
  -  [Part 1]()
       - [React]()
