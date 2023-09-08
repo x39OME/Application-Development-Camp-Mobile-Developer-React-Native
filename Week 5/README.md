@@ -47,6 +47,7 @@
 #### 2. [Axios](https://axios-http.com/docs/intro)
 ```
 - npm install axios
+- [News Api](https://newsapi.org/)
 ```
 #### 3. [React Router](https://reactrouter.com/en/main)
 ```
