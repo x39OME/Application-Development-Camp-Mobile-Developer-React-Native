@@ -12,13 +12,12 @@
           ○ 5. Axios
       - Redux
           ○ 6. Layout
-          ○ 7. Routing
-          ○ 8. Routing components
-          ○ 9. Redux Parts
-          ○ 10. Redux actions
-          ○ 11. Redux reducers
-          ○ 12. Redux Store
-          ○ 13. Redux Hooks
+          ○ 7. Routing Components
+          ○ 8. Redux Parts ( Cycle ) :
+                  1. Redux actions
+                  2. Redux reducers
+                  3. Redux Store
+          ○ 9. Redux Hooks
 
 # Steps
 ## Links React
