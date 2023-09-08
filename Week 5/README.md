@@ -21,7 +21,7 @@
           ○ 13. Redux Hooks
 
 # Steps
-## Links
+## Links React
 
 #### 1. [Formik DOC](https://formik.org/)
 ```
@@ -36,10 +36,12 @@
 - npm install axios
 - [Fake Store API](https://fakestoreapi.com/)
 ```
-#### 4. [Redux](https://redux.js.org/)
+
+## Links Redux
+
+#### 1. [Redux](https://redux.js.org/)
 ```
 - npm install @reduxjs/toolkit
-
 ```
 
 ## Week 5 Tasks
