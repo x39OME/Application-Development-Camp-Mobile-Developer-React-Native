@@ -57,6 +57,10 @@
 ```
 npm i react-bootstrap bootstrap
 ```
+#### 5. [Configuring Your Store](https://redux.js.org/usage/configuring-your-store)
+```
+npm install --save-dev redux-devtools-extension
+```
 
 ## Week 5 Tasks
  -  [Part 1]()
