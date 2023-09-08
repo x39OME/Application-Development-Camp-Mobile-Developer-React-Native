@@ -1,0 +1,21 @@
+.main-header{
+    display: flex;
+    height: 50px;
+    border: 1px solid white;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 20px;
+    padding-right: 20px;
+}
+.nav-link{
+    padding: 10px;
+    text-decoration: none;
+    color: white;
+}
+.nav-link:hoveR{
+    color: rgba(255, 255, 255, .4);
+}
+.navbar-brand{
+    color: #fff;
+    text-transform: uppercase;
+}
