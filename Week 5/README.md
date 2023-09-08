@@ -40,7 +40,8 @@
 
 #### 1. [Redux](https://redux.js.org/)
 ```
-- npm install @reduxjs/toolkit
+- npm install react-redux
+- npm install redux
 ```
 
 #### 2. [Axios](https://axios-http.com/docs/intro)
