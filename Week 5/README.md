@@ -22,7 +22,7 @@
 # Steps
 ## Links React
 
-#### 1. [Formik DOC](https://formik.org/)
+#### [1. Formik DOC](https://formik.org/)
 ```
 - npm install formik --save
 ```
