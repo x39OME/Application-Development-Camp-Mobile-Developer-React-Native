@@ -15,8 +15,8 @@
   * Week 2: [Introduction To HTML & CSS](https://github.com/x39OME/Ustudy-Application-Development-Camp/tree/main/Week%202#week-2)
   * Week 3: [RWD & Introduction To Javascript](https://github.com/x39OME/Ustudy-Application-Development-Camp/tree/main/Week%203#week-3)
   * Week 4: [JavaScript Advanced & Introduction To React Js](https://github.com/x39OME/Ustudy-Application-Development-Camp/tree/main/Week%204)
-  * Week 5: [Advanced React](https://github.com/x39OME/Ustudy-Application-Development-Camp/tree/main/Week%205)
-  * Week 6: [React Native](https://github.com/x39OME/Ustudy-Application-Development-Camp/tree/main/Week%206)
+  * Week 5: [Advanced React & Redux](https://github.com/x39OME/Ustudy-Application-Development-Camp/tree/main/Week%205)
+  * Week 6: [React Native & Final Project](https://github.com/x39OME/Ustudy-Application-Development-Camp/tree/main/Week%206)
 </details>
 
  ## ما هي خطة المعسكر؟
