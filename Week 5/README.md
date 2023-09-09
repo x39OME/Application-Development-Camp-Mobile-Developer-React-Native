@@ -18,6 +18,9 @@
                   2. Redux reducers
                   3. Redux Store
           ○ 9. Redux Hooks
+          ○ 10. useSelector, iseDispatch
+          ○ 11. Axios Interceptors New Api
+          ○ 12. Counter Context
 
 # Steps
 ## Links React
@@ -43,7 +46,6 @@
 - npm install react-redux
 - npm install redux
 ```
-
 #### 2. [Axios](https://axios-http.com/docs/intro)
 ```
 - npm install axios
@@ -63,13 +65,13 @@ npm install --save-dev redux-devtools-extension
 ```
 
 ## Week 5 Tasks
- -  [Part 1]()
-      - [React]()
+ - Part 1
+      - [React](https://github.com/x39OME/Ustudy-Application-Development-Camp/tree/main/Week%205/Tasks/react-router-task-1)
     ```
       ● Create a React app with 3 pages and a routing system.
     ```
- -  [Part 2]()
-      - [Redux]()
+ - Part 2
+      - [Redux](https://github.com/x39OME/Ustudy-Application-Development-Camp/tree/main/Week%205/Tasks/react-redux-task-2)
     ```
       ● Create a React app with a redux system to convert between direction and language.
     ```
