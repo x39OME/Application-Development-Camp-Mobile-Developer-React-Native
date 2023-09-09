@@ -21,7 +21,14 @@
         ○ 2. 
     ```
 
-      
+# Steps
+## Links React Native
+
+#### [1. React Native](https://reactnative.dev/)
+```
+[Expo] - npx create-expo-app AwesomeProject (https://reactnative.dev/docs/environment-setup?guide=quickstart)
+[Cli] - choco install -y nodejs-lts microsoft-openjdk11 (https://reactnative.dev/docs/environment-setup?guide=native)
+```
 
 ## Week 6 Final Project
  - #### 
