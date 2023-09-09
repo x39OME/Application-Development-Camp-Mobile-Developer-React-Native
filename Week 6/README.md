@@ -26,8 +26,13 @@
 
 #### [1. React Native](https://reactnative.dev/)
 ```
-[Expo] - npx create-expo-app AwesomeProject (https://reactnative.dev/docs/environment-setup?guide=quickstart)
-[Cli] - choco install -y nodejs-lts microsoft-openjdk11 (https://reactnative.dev/docs/environment-setup?guide=native)
+- npx create-expo-app AwesomeProject
+```
+#### [2. Expo](https://reactnative.dev/docs/environment-setup?guide=native)
+#### [2. Cli](https://reactnative.dev/docs/environment-setup?guide=native)
+```
+[Expo] - npx create-expo-app AwesomeProject
+[Cli] - choco install -y nodejs-lts microsoft-openjdk11
 ```
 
 ## Week 6 Final Project
