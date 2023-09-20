@@ -9,16 +9,16 @@
         ○ 1. Introduction To Corss-Platform
         ○ 2. Why We Use React Native ?
         ○ 3. Expo Vs Cil
-        ○ 4. 
-        ○ 5. 
+        ○ 4. Create React Native App & Run App
+        ○ 5. View
         ○ 6. 
         ○ 7. 
         ○ 8.
     ```
   - Final Projects
     ```
-        ○ 1. 
-        ○ 2. 
+        ○ 1. Website (Portfolio)
+        ○ 2. React Native App
     ```
 
 # Steps
@@ -26,7 +26,11 @@
 
 #### [1. React Native](https://reactnative.dev/)
 ```
-- npx create-expo-app AwesomeProject
+    - npx create-expo-app AwesomeProject
+    - npm install -g expo-cli
+    - npx expo start
+    - expo start --tunnel
+    - npx expo start -w
 ```
 #### [2. Expo](https://reactnative.dev/docs/environment-setup?guide=native)
 #### [2. Cli](https://reactnative.dev/docs/environment-setup?guide=native)
@@ -36,5 +40,13 @@
 ```
 
 ## Week 6 Final Project
- - #### 
-
+  - Section 1
+      - [Website Portfolio]()
+    ```
+        ● Create a Website (Porfoilo)
+    ```
+ - Section 2
+      - [React Native App]()
+    ```
+       ● Create a React Native app 
+    ```
