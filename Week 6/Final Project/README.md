@@ -2,7 +2,7 @@
 
 
 ## Final Project
- - Part 1
+ - Section 1
       - [Portfolio]()
     ```
       ● Create a Website (Porfoilo)
@@ -14,7 +14,7 @@
 
 
     
- - Part 2
+ - Section 2
       - [React Native App]()
     ```
       ● Create a React Native app 
@@ -23,4 +23,3 @@
 
 
 <img src="./final-project.png" style="">
-
