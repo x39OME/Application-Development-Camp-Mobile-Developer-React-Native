@@ -2,7 +2,7 @@
 
 ## Table of Content
 
-  Week 6: [React Native]()
+  Week 6: [React Native](https://github.com/x39OME/Ustudy-Application-Development-Camp/tree/main/Week%206)
   
   - React Native 
     ```
@@ -10,10 +10,13 @@
         ○ 2. Why We Use React Native ?
         ○ 3. Expo Vs Cil
         ○ 4. Create React Native App & Run App
-        ○ 5. View
-        ○ 6. 
-        ○ 7. 
-        ○ 8.
+        ○ 5. View, Text, Image<, safeAreaView, ImageBackgounrd
+        ○ 6. ScrollViewm, Button, StyleSheet
+        ○ 7. TextInput, onChange, useCallBack
+        ○ 8. Alert,
+        ○ 9.
+        ○ 10.
+        ○ 11.
     ```
   - Final Projects
     ```
