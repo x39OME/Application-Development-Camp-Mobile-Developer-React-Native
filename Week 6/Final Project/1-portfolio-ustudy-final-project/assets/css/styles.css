@@ -439,9 +439,6 @@ img {
     width: 360px;
     padding-top: 2rem;
   }
-  .contact__container {
-    flex-direction: column;
-  }
 }
 @media screen and (max-width: 767px) {
   .contact__container {
