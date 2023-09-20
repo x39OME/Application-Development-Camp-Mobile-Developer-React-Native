@@ -45,7 +45,7 @@
 ## Week 6 Final Project
   - Section 1
       - [Website Portfolio](https://github.com/x39OME/Ustudy-Application-Development-Camp/tree/main/Week%206/Final%20Project/1-portfolio-ustudy-final-project)
-      - [LIVE Demo](https://x39ome.github.io/portfolio-ustudy-final-project/)
+      - [Live Demo](https://x39ome.github.io/portfolio-ustudy-final-project/)
     ```
         ● Create a Website (Porfoilo)
     ```
