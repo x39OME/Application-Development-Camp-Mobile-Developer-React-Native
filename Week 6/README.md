@@ -13,10 +13,10 @@
         ○ 5. View, Text, Image<, safeAreaView, ImageBackgounrd
         ○ 6. ScrollViewm, Button, StyleSheet
         ○ 7. TextInput, onChange, useCallBack
-        ○ 8. Alert,
-        ○ 9.
-        ○ 10.
-        ○ 11.
+        ○ 8. Alert, TouchableOpacity, TouchableWithoutFeedback
+        ○ 9. Pressable, user page, single user box
+        ○ 10. flatList, callapi axios, Redux
+        ○ 11. context, navgation, passing data, single user page
     ```
   - Final Projects
     ```
