@@ -1,0 +1,111 @@
+@import url('https://fonts.googleapis.com/css2?family=Dancing+Script:wght@700&family=Josefin+Sans:wght@400;500;700&display=swap');
+*, ::before, ::after{
+  margin:0;
+  padding:0;
+  box-sizing:border-box;
+}
+html {
+  scroll-behavior: smooth;
+}
+body {
+  margin: var(--header-height) 0 0 0;
+  font-family: var(--body-font);
+  font-size: var(--normal-font-size);
+  color: var(--second-color);
+}
+h1, h2, p {
+  margin: 0;
+}
+ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+a {
+  text-decoration: none;
+}
+/* Start Global Rules */
+:root{
+  --mainColor:#2F2F31;
+  --secColor:#FAFCFF;
+  --glassColor: rgba(0, 0, 0, .3);
+  --textColor:#777;
+  --mainPadding:60px;
+  --roundShape:5px;
+  --fontTitle:'Dancing Script', cursive, sans-serif;
+  --fontText:'Courier New', Courier, monospace, sans-serif;
+  --secFont:'Josefin Sans', sans-serif;
+  --z-fixed: 100;
+}
+/* FREAMEWORK */
+.special{
+  font-size: 3rem;
+  font-weight: 200;
+  margin-bottom: 40px;
+}
+.title{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  flex-direction: column;
+  text-align: center;
+  padding: 60px 0 30px;
+}
+.title p{
+  color: #C7A17A;
+  font-family: var(--secFont);
+  margin-bottom: -5px;
+}
+/* LAYOUT */
+.bd-grid {
+  max-width: 1024px;
+  display: grid;
+  margin-left: var(--mb-2);
+  margin-right: var(--mb-2);
+}
+.l-header {
+  width: 100%;
+  position: fixed;
+  top: 0;
+  left: 0;
+  z-index: var(--z-fixed);
+  background-color: #fff;
+  box-shadow: 0 1px 4px rgba(146, 161, 176, 0.15);
+}
+/*  MEDIA QUERIES */
+@media screen and (max-width: 320px) {
+  .home {
+    row-gap: 2rem
+  }
+  .home__img {
+    width: 200px
+  }
+}
+@media screen and (max-width: 767px) {
+  .contact__container {
+     flex-direction: column
+  }
+  .home{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+}
+@media screen and (min-width: 768px) {
+  .skills__container {
+    grid-template-columns: repeat(2, 1fr);
+    column-gap: 2rem;
+    align-items: center;
+    text-align: initial
+  }
+  .work__container {
+    grid-template-columns: repeat(3, 1fr);
+    column-gap: 2rem
+  }
+}
+@media screen and (min-width: 992px) {
+  .bd-grid {
+    margin-left: auto;
+    margin-right: auto
+  }
+}
