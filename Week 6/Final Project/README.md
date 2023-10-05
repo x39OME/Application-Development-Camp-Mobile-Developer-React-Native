@@ -14,6 +14,11 @@
    ##### [3. Shaq](https://shaq-portfolio.netlify.app/)
 
 ## Solution
+- npm install
+- npm i bootstrap@5.3.2
+- npm install react-bootstrap bootstrap
+- npm start
+
 <img src="./portfolio-ustudy-using-React.png" style="">
 
     
