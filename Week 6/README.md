@@ -44,12 +44,12 @@
 
 ## Week 6 Final Project
   - Section 1
-      - [Website Portfolio](https://github.com/x39OME/Ustudy-Application-Development-Camp/tree/main/Week%206/Final%20Project)
+      - [ReactJs Website](https://github.com/x39OME/Ustudy-Application-Development-Camp/tree/main/Week%206/Final%20Project)
     ```
         ● Create a Website (Porfoilo)
     ```
  - Section 2
-      - [React Native App]()
+      - [React Native App](https://github.com/x39OME/Ustudy-Application-Development-Camp/tree/main/Week%206/Final%20Project/TaskToDo)
     ```
-       ● Create a React Native app 
+       ● Create a React Native app (Task To Do)
     ```
