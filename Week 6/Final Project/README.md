@@ -19,7 +19,7 @@
 - npm install react-bootstrap bootstrap
 - npm start
 
-<img src="./portfolio-ustudy-using-React.png" style="">
+<img src="./portfolio-ustudy-using-react.png" style="">
 
     
  - Section 2
@@ -27,7 +27,13 @@
     ```
       ● Create a React Native app 
     ```
+## Solution
+- npm install
+- npm start
 
+<img src="./task-to-do-ustudy-using-react-native.png" style="">
+
+    
 
 
 <img src="./portfolio-ustudy-using-React.png" style="">
