@@ -29,11 +29,13 @@
 
 #### [1. React Native](https://reactnative.dev/)
 ```
-    - npx create-expo-app AwesomeProject
+    - npx create-expo-app NamePorject
+    - npx expo install react-native-web@~0.19.6 react-dom@18.2.0
+    - npx expo install @expo/webpack-config@^19.0.0
+    - npx expo start -w
     - npm install -g expo-cli
     - npx expo start
     - expo start --tunnel
-    - npx expo start -w
 ```
 #### [2. Expo](https://reactnative.dev/docs/environment-setup?guide=native)
 #### [2. Cli](https://reactnative.dev/docs/environment-setup?guide=native)
