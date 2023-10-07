@@ -1,9 +1,5 @@
 import './footer.css';
-
-
 import { Form, Button, Image, Nav } from 'react-bootstrap';
-
-
 
 function MainFooter(){
   return <>
