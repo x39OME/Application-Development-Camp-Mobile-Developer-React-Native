@@ -1,12 +1,8 @@
-const Info = [
+const copyright = [
   {
-    name: "Tommy",
-    address: "kilkenny",
-  },
-  {
-    name: "Arron",
-    address: "kilkenny",
+    name: "",
+    address: "",
   },
 ];
 
-export default Info;
+export default copyright;
