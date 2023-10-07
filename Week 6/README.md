@@ -37,6 +37,7 @@
     - npx expo start
     - expo start --tunnel
 ```
+
 #### [2. Expo](https://reactnative.dev/docs/environment-setup?guide=native)
 #### [2. Cli](https://reactnative.dev/docs/environment-setup?guide=native)
 ```
