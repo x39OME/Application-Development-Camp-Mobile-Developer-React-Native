@@ -1,5 +1,9 @@
 import './footer.css';
+
+
 import { Form, Button, Image, Nav } from 'react-bootstrap';
+
+
 
 function MainFooter(){
   return <>
@@ -82,12 +86,12 @@ function MainFooter(){
         <div className="other-locations">
           <div className="other">
             <h3>other locations</h3>
-            <h5>barista coffee shop</h5>
+            <h5>Lorem Our Office</h5>
             <p>2542 Riyadh</p>
             <p>2524 Jeddah</p>
           </div>
           <div className="other-2">
-            <h5>barista cafe</h5>
+            <h5>Our Shop</h5>
             <p>2511 Riyadh</p>
             <p>2524 Jeddah</p>
           </div>
