@@ -1,7 +1,7 @@
 # Week 6 Final Project
 
 
-## Final Project
+## Final Project 1
 ### Portfolio
  - Section 1
       - [Portfolio](https://github.com/x39OME/Ustudy-Application-Development-Camp/tree/main/Week%206/Final%20Project/1-portfolio-ustudy-final-project)
@@ -21,6 +21,7 @@
 
 <img src="./portfolio-ustudy-using-react.png" style="">
 
+## Final Project 2
 ### Task To Do
     
  - Section 2
