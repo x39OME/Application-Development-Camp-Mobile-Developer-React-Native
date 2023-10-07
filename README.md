@@ -24,6 +24,7 @@
 - Camp Duration `6` Weeks
 - Total Number Of Hours `50 - 60` Training Hours
 - Camp End `15/09/2023`
+- Project Delivery `07/10/2023`
 
 
 
