@@ -1,0 +1,75 @@
+.projects .my-project{
+  display: grid;
+  grid-template-columns: repeat(auto-fill, minmax(280px, 1fr));
+  gap: 40px;
+}
+.projects .my-project .box {
+  box-shadow: 0px 0px 5px rgb(0 0 0 / 10%);
+  background-color: white;
+  border-radius: var(--roundShape);
+  overflow: hidden;
+  padding: 5px;
+  border: 5px double #e6e6e7;
+  transition: .3s;
+}
+.projects .my-project .box:hover {
+  transform: translateY(-10px);
+  box-shadow: 0px 0px 5px rgb(0 0 0 / 20%);
+}
+.projects .my-project .box img {
+  width:100%;
+  max-width:100%;
+  height:180px;
+}
+.projects .my-project .box .content {
+  padding: 10px;
+  height: 240px;
+}
+.projects .my-project .box .content h3 {
+  font-family: var(--secFont);
+  margin: 0;
+  padding: 5px;
+}
+.projects .my-project .box .content p {
+  margin-top: 8px;
+  line-height: 1.5;
+  color: var(--textColor);
+  border-top: 5px double #e6e6e7;
+  padding: 5px;
+}
+.projects .my-project .box .content ul {
+  display: flex;
+  justify-content: flex-start;
+  flex-wrap: wrap;
+  gap: 5px;
+  margin-top: 10px;
+  padding:0;
+}
+.projects .my-project .box .content ul li{
+  background-color: #C7A17A;
+  opacity: .8;
+  color: var(--secColor);
+  padding: 3px;
+  border-radius: var(--roundShape);
+}
+.projects .my-project .box .info {
+  padding: 10px;
+  border-top: 5px double #e6e6e7;
+  display: flex;
+  justify-content:space-between;
+  align-items: center;
+}
+.projects .my-project .box .info a:first-of-type{
+  color: var(--mainColor);
+  font-family:var(--secFont);
+  font-size: 14px;
+  font-weight:bold;
+  display:flex;
+  justify-content:center;
+  align-items:center;
+  gap:5px;
+  transition:.3s;
+}
+.projects .my-project .box:hover .info a:first-of-type{
+  animation: moving-arrow 2s linear infinite;
+}
