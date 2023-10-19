@@ -59,6 +59,14 @@
 
 ## Proof of Completion
 
-- <a href=""> Verified Ustudy Certifies</a>
+### Training Camp Attendance Certificate
+
+- <a href="https://github.com/x39OME/Ustudy-Application-Development-Camp/blob/main/training-camp-attendance-certificate.pdf"> Verified Ustudy Certifies</a>
+
+<img src="./certificate.png" alt="certificate">
+
+### Graduation Project Completion Certificate
+
+- <a href="https://github.com/x39OME/Ustudy-Application-Development-Camp/blob/main/graduation-project-completion-certificate.pdf"> Verified Ustudy Certifies</a>
 
 <img src="./certificate.png" alt="certificate">
