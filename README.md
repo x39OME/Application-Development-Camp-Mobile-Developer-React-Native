@@ -63,7 +63,7 @@
 
 - <a href="https://github.com/x39OME/Ustudy-Application-Development-Camp/blob/main/training-camp-attendance-certificate.pdf"> Verified Ustudy Certifies</a>
 
-<img src="./training-camp-attendance-certificate" alt="certificate">
+<img src="./training-camp-attendance-certificate.png" style="width:350px" alt="certificate">
 
 ### Graduation Project Completion Certificate
 
