@@ -1,4 +1,4 @@
-# Ustudy Application Development Camp (React Native)
+# Ustudy Application Development Camp Mobile Developer React Native
 
 
 <img src="./logo.png" style="width:300px;">
